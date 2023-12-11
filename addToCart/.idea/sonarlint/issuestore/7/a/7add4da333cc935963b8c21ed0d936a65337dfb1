@@ -1,0 +1,12 @@
+
+p
+java:S1104"UMake productID a static final constant or non-public and provide accessors if needed.(€í…Õüÿÿÿÿ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+g
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ 
+h
+java:S1104"RMake rating a static final constant or non-public and provide accessors if needed.(í¼¬’
+j
+java:S1104"TMake imageURL a static final constant or non-public and provide accessors if needed.(¡†ò“
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ê´şÿÿÿÿ
